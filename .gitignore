@@ -1,0 +1,24 @@
+# Office lock / temp files
+~$*
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+
+# Editors
+.vscode/
+.idea/
